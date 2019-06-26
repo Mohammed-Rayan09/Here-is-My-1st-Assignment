@@ -1,0 +1,42 @@
+*{
+	margin:0;
+}
+h1{
+	text-align:center;
+	color:red;
+	background-color:Green;
+}
+h2{
+	margin-top:10px;
+	text-align:center;
+	
+}
+h3{
+	border-bottom:5px dashed black;
+	text-align:center;
+	font-size:30px;
+	border:5px dashed black;
+	
+}
+td{
+	text-align:center;
+	font-size:25px;
+	background-color:lightblue;
+}
+table,th{
+	font-size:20px;
+	
+	}
+p{
+	font-size:20px;
+	line-height:25px;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-family:simsun;
+	
+}
+div{
+	margin:auto;
+	width:80%;
+	
+}
